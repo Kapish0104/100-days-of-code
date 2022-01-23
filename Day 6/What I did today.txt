@@ -1,0 +1,4 @@
+Came up with a working solution for question 10. This took about 25 minutes of time. 
+Then Saw one more solution called "Binary Search" of question 11  On leet code. 
+Discussed with a friend and it took about 45 minutes just to understand the solution to that problem. 
+Also this reminds me I have to revise search Algorithms.
