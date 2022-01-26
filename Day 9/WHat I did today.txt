@@ -1,0 +1,2 @@
+Spent some time on question 14. Got a bit demotivated as could not get the correct output. 
+Solved questions 26 and 27 from leetcode after that.
