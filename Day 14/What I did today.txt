@@ -1,0 +1,6 @@
+Did question 15 by myself,
+Did a brute force implementation of question 16 but it exceeded time. 
+Saw solution of question 16, it used merge sort. So I started studying merge sort.
+Implemented half of merge sort. 
+
+PS: I still couldn't solve question 14. Have to work on that.
