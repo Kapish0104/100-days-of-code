@@ -1,0 +1,3 @@
+Started with some matrix questions. Tried question 37 but couldnt get it to be working correctly. Still trying.
+
+Understood the merge sort.
